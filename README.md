@@ -1,4 +1,4 @@
-# Consumer-price-index-of-golf
+# Consumer-price-index-of-gold
 A project about the time series analysis and consumer price index of the price of gold in Uk from 1980-2020
 The project was about studying the gold prices and consumer price
 index of the UK. I did a time series analysis of the gold prices and fit a
